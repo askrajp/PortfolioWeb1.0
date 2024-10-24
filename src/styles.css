@@ -1,0 +1,67 @@
+:root{
+    --blanco: #fff;
+    --platino: #ddd;
+    --oscuro: #212121;
+    --base: #333;
+    --primario: #D8BD70;
+    --secundario: #3066BE;
+    --terciario: #568EA3;
+    --titulo: 'beaufort';
+    --texto: 'spiegel';
+  }
+  /* Content style */
+  html {
+    font-size: 62.5%;
+    margin: 0;
+    min-height: 100%;
+    background-color: #444;
+    color: #fff;
+  
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'spiegel', 'beaufort', sans-serif;
+    font-size: 16px;
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    min-height: 100%;
+    line-height: 1.6;
+ 
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+  h1 span {
+    font-size: 1.5rem;
+  }
+  h1, h2, h3 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    font-family: 'beaufort';
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    color: var(--base);
+    text-shadow: 0 0 1 #fff;
+  }
+  h3 {
+    color: var(--platino);
+    font-weight: 400;
+    font-size: 1.6rem;
+  }
+  
+  
+  p {
+    font-family: 'spiegel';
+    font-weight: 600;
+    font-size: 2.1rem;
+    color: var(--base);
+    text-shadow: 0 0 1 #fff;
+  }
+  

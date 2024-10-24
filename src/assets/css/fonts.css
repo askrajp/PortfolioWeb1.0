@@ -1,0 +1,117 @@
+
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Light.ttf) format("truetype");
+    font-weight: 100
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-LightItalic.ttf) format("truetype");
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Regular.ttf) format("truetype");
+    font-weight: 400
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Italic.ttf) format("truetype");
+    font-style: italic;
+    font-weight: 400
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Bold.ttf) format("truetype");
+    font-weight: bold
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-BoldItalic.ttf) format("truetype");
+    font-weight: bold;
+    font-style: italic
+    ;
+}
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Medium.ttf) format("truetype");
+    font-weight: 600
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-MediumItalic.ttf) format("truetype");
+    font-weight: 600;
+    font-style: italic
+    ;
+}
+
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-Heavy.ttf) format("truetype");
+    font-weight: 900
+    ;
+}
+@font-face {
+    font-family: beaufort ;
+    src: url(../fonts/beaufort-for-lol/BeaufortforLOL-HeavyItalic.ttf) format("truetype");
+    font-weight: 900; 
+    font-style: italic
+    ;
+}
+
+/* Spiegel Family */
+
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf) format("truetype");
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_Regular_Italic.ttf) format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_SemiBold.ttf) format("truetype");
+    font-weight: 600;
+}
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_SemiBold_Italic.ttf) format("truetype");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_Bold.ttf) format("truetype");
+    font-weight: 900;
+}
+
+
+@font-face {
+    font-family: spiegel;
+    src: url(../fonts/Spiegel-TTF/Spiegel_TT_Bold_Italic.ttf) format("truetype");
+    font-weight: 900;
+    font-style: italic;
+}

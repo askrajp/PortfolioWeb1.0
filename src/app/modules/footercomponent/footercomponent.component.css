@@ -1,0 +1,13 @@
+footer{
+
+    background-color: #444;
+    padding: 1rem;
+    text-align: center;
+}
+
+.footer_txt{
+    color: #fff;  
+    font-weight: 400;
+    font-family: 'spiegel';
+    line-height: 1.6;
+}

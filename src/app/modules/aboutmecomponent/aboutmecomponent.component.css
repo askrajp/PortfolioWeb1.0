@@ -1,0 +1,9 @@
+section{
+    padding: 2rem;
+    margin: 1rem 0;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.about__title{
+    font-size: 1.7rem;
+}
